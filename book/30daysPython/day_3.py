@@ -1,3 +1,5 @@
+#Day 3: exercises
+
 age = 33
 height = 1.85
 compx = (2 * 3j)
