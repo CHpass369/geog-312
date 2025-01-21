@@ -46,3 +46,4 @@ watershed*
 histogram*
 book/geospatial/cache/*
 book/geospatial/*.html
+book/30-Days-of-Python/data/HN_posts_year_to_Sep_26_2016.csv

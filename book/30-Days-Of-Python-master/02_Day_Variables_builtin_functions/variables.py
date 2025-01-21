@@ -1,40 +1,19 @@
-
-# Variables in Python
-
-first_name = 'Asabeneh'
-last_name = 'Yetayeh'
-country = 'Finland'
-city = 'Helsinki'
-age = 250
+# 30DaysOfPython create a folder called day_2. 
+first_name = 'Pablo Abigail'
+last_name = 'Orellana Cardozo'
+full_name = first_name + ' ' + last_name
+country = 'Bolivia'
+city = 'Cochabamba'
+age = 33
+year = 1991
 is_married = True
-skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
-person_info = {
-    'firstname':'Asabeneh', 
-    'lastname':'Yetayeh', 
-    'country':'Finland',
-    'city':'Helsinki'
-    }
+is_true = True
+is_light = False
+titles = 'planificador', 'geoinformatics expert', 'cadastral expert', 'land administration expert'
 
-# Printing the values stored in the variables
-
-print('First name:', first_name)
-print('First name length:', len(first_name))
-print('Last name: ', last_name)
-print('Last name length: ', len(last_name))
-print('Country: ', country)
-print('City: ', city)
-print('Age: ', age)
-print('Married: ', is_married)
-print('Skills: ', skills)
-print('Person information: ', person_info)
-
-# Declaring multiple variables in one line
-
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
-
-print(first_name, last_name, country, age, is_married)
-print('First name:', first_name)
-print('Last name: ', last_name)
-print('Country: ', country)
-print('Age: ', age)
-print('Married: ', is_married)
+print(type(first_name))
+print(type(last_name))
+print(type(full_name))
+print(type(country))
+print(type(city))
+print(type(age))
