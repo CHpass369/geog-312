@@ -1,4 +1,6 @@
 #Day 2: 30 Days of python programming
+# Hey day 2, 30 days of python programming
+# Variables and Data Types
 first_name = 'Pablo'
 last_name= 'Orellana'
 full_name = 'Pablo Abigail Orellana Cardozo'
